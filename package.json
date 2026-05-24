@@ -1,0 +1,28 @@
+{
+  "name": "project4_ahmedbreeka",
+  "version": "1.0.0",
+  "description": "ND FrontEnd Web Developer - last Project4 - Ahmed Breeka",
+  "license": "MIT",
+  "author": "Ahmed Breeka",
+  "type": "module",
+  "scripts": {
+    "test": "mocha",
+    "gulp": "gulp"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "chai": "^6.2.2",
+    "cypress": "^15.15.0",
+    "eslint": "^10.4.0",
+    "globals": "^17.6.0",
+    "gulp": "^5.0.1",
+    "gulp-cli": "^3.1.0",
+    "gulp-shell": "^0.8.0",
+    "mocha": "^11.3.0",
+    "parcel": "^2.16.4"
+  },
+  "prettier": {
+    "semi": true,
+    "tabWidth": 4
+  }
+}
