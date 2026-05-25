@@ -7,7 +7,9 @@
   "type": "module",
   "scripts": {
     "test": "mocha",
-    "gulp": "gulp"
+    "gulp": "gulp",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",

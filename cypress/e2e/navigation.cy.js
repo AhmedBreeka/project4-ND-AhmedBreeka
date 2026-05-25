@@ -1,7 +1,7 @@
 describe("Navigation Tests", () => {
 
   beforeEach(() => {
-    cy.visit("http://localhost:1234");
+    cy.visit('/');
   });
 
   it('Clicking on "Card Set" navigation to the card sets page', () => {

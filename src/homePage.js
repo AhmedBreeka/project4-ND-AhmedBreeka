@@ -1,7 +1,7 @@
 //DO NOT CHANGE ANYTHING IN THIS FILE//
 // This file is responsible for loading the home page
 //Imports image for homepage
-import homePageImage from "../images/homePage.png";
+import homePageImage from "url:../images/homePage.png";
 //Helper functions
 import {
   createHeader,

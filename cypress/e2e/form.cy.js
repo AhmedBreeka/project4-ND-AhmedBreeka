@@ -1,6 +1,6 @@
 describe("Forms Functionality Tests", () => {
     beforeEach(() => {
-        cy.visit("http://localhost:1234");
+        cy.visit('/');
         cy.get("#cardSetPage").click();
     });
 
